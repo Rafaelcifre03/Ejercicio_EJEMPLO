@@ -1,0 +1,48 @@
+*   {
+    font-family: sans-serif;
+    background-color: lightgrey;
+    }
+
+h1 {
+    text-align: center;
+    margin-top: 1cm;
+    font-size: 300%;
+    letter-spacing: 10px;
+    }
+
+h2 {
+    margin-left: 8%;
+    margin-right: 10%;
+    margin-top: 1cm;
+
+    font-size: 200%;
+    background-color: grey;
+    color: honeydew;
+
+    padding-top: 1mm;
+    padding-bottom: 1mm;
+    padding-left: 1mm;
+
+    }
+
+p   {
+    text-indent: 2rem;
+    margin-left: 18%;
+    margin-right: 20%;
+    text-align: center;
+    text-align: justify;
+    }
+
+img.izquierda {
+    float: left;
+    margin-right: 10px;
+    }
+
+span.txtrojo {
+    color: red;
+}  
+
+strong {
+    background-color: white;
+}
+
